@@ -139,4 +139,3 @@ Next steps...
 - Let the user know how many attempts they have left.
 - Delete the code (or parts of it) and practice remembering what you did and writing it out again, this will really help embed your new skills.
 - Let your imagination run wild, and make something else using the same logic.
-
